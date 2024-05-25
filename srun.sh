@@ -1,6 +1,6 @@
 #!/bin/ash
-USERNAME='221188100301'
-PASSWORD='951753'
+USERNAME='************'
+PASSWORD='********'
 signin() {
     Stu_No=$1
     Stu_Passwd=$2
